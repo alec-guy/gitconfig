@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @alecTheBrainDamaged
-- 👀 I’m interested in: programming, and logic
-- 🌱 I’m currently learning: Haskell and Elm
-- 💞️ I’m looking to collaborate: on anything you think I can do
-- 📫 How to reach me: alecrodriguez1247@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: There were active volcanoes on the moon when dinosaurs were alive. I don't know the truth value of this proposition. 
+Hello , my name is Alec. 
+# Languages
+I have knowledge in Haskell and elm. But I am still not as good as many others. 
+
+# Using new tools...
+I am now working with vscode and things are going smoother. 
+
+# What I am doing...
+Currently making a website called LogicTools. 
+
+# Contact information
+Email: alecrodriguez1247@gmail.com
+
 
 <!---
 alecTheBrainDamaged/alecTheBrainDamaged is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
